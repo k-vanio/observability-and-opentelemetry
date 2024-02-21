@@ -1,0 +1,5 @@
+go 1.20
+
+use ./otel-zipkin
+use ./service-a
+use ./service-b
